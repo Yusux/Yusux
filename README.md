@@ -4,7 +4,7 @@
 
 ### Hi, I'm Hua Geng (耿华) 👋
 
-Master's student at the College of Computer Science and Technology, **Zhejiang University**, advised by [Prof. Chunhua Shen](https://cshen.github.io/).
+M.Eng. student in Computer Technology at the College of Computer Science and Technology, **Zhejiang University**, advised by [Prof. Chunhua Shen](https://cshen.github.io/).
 
 - 🔭 Research: **Multimodal**, **Efficient Inference**, **3D Vision**
 - 🏅 IndySCC 2023 1st Place · ASC24 First Prize, with [ZJUSCT](https://www.zjusct.io/)
